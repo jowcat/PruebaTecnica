@@ -1,3 +1,15 @@
 "backend/**/bin/" 
 "backend/**/obj/" 
 "frontend/node_modules/" 
+
+# Archivos de .NET
+bin/
+obj/
+*.user
+*.vs/
+*.db
+
+# Archivos de Angular
+node_modules/
+dist/
+.angular/
