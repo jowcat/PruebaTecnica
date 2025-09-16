@@ -1,0 +1,51 @@
+# =========================================
+# Configuración general
+# =========================================
+
+# Normalizar automáticamente los finales de línea
+* text=auto
+
+# =========================================
+# Archivos de código (usar LF)
+# =========================================
+
+# C# / .NET
+*.cs     text eol=lf
+*.csproj text eol=lf
+*.sln    text eol=lf
+
+# TypeScript / JavaScript
+*.ts     text eol=lf
+*.js     text eol=lf
+
+# HTML / CSS / Angular
+*.html   text eol=lf
+*.css    text eol=lf
+*.scss   text eol=lf
+
+# JSON / Configuración
+*.json   text eol=lf
+*.yml    text eol=lf
+*.yaml   text eol=lf
+
+# Markdown / Docs
+*.md     text eol=lf
+
+# =========================================
+# Archivos específicos de Windows (CRLF)
+# =========================================
+*.bat    text eol=crlf
+*.cmd    text eol=crlf
+
+# =========================================
+# Archivos binarios (sin cambios de línea)
+# =========================================
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.pdf    binary
+*.dll    binary
+*.exe    binary
+*.pdb    binary

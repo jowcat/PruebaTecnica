@@ -1,0 +1,30 @@
+<mat-card class="card-container">
+  <h2><mat-icon>search</mat-icon> Buscar Cliente</h2>
+
+  <mat-form-field class="full-width" appearance="outline">
+    <mat-label>Número de Identificación</mat-label>
+    <input matInput [(ngModel)]="identificacion" placeholder="Ej: 123456789" />
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="buscarCliente()">
+    <mat-icon>search</mat-icon> Buscar
+  </button>
+
+  <!-- Spinner -->
+  <div class="loading" *ngIf="loading">
+    <mat-spinner diameter="40"></mat-spinner>
+  </div>
+
+  <!-- Error -->
+  <div class="error" *ngIf="errorMessage">
+    <mat-icon color="warn">error</mat-icon> {{ errorMessage }}
+  </div>
+
+  <!-- Datos cliente -->
+  <mat-card *ngIf="cliente" class="cliente-card">
+    <h3><mat-icon>person</mat-icon> {{ cliente.nombre }} {{ cliente.apellido }}</h3>
+    <p><strong>Identificación:</strong> {{ cliente.identificacion }}</p>
+    <p><strong>Email:</strong> {{ cliente.email }}</p>
+    <p><strong>Creado:</strong> {{ cliente.fechaCreacion | date }}</p>
+  </mat-card>
+</mat-card>

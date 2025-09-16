@@ -1,0 +1,15 @@
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\bin\Debug\net8.0\ClientesApi.Repositories.deps.json
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\bin\Debug\net8.0\ClientesApi.Repositories.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\bin\Debug\net8.0\ClientesApi.Repositories.pdb
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\bin\Debug\net8.0\ClientesApi.Models.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\bin\Debug\net8.0\ClientesApi.Models.pdb
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.csproj.AssemblyReference.cache
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.AssemblyInfoInputs.cache
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.AssemblyInfo.cs
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.csproj.CoreCompileInputs.cache
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\Clientes.6497E2DF.Up2Date
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\refint\ClientesApi.Repositories.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ClientesApi.Repositories.pdb
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.Repositories\obj\Debug\net8.0\ref\ClientesApi.Repositories.dll

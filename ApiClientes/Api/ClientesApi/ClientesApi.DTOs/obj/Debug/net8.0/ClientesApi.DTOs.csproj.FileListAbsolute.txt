@@ -1,0 +1,11 @@
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\bin\Debug\net8.0\ClientesApi.DTOs.deps.json
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\bin\Debug\net8.0\ClientesApi.DTOs.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\bin\Debug\net8.0\ClientesApi.DTOs.pdb
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.AssemblyInfoInputs.cache
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.AssemblyInfo.cs
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.csproj.CoreCompileInputs.cache
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\refint\ClientesApi.DTOs.dll
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ClientesApi.DTOs.pdb
+D:\Prueba Talycap Global\ApiClientes\Api\ClientesApi\ClientesApi.DTOs\obj\Debug\net8.0\ref\ClientesApi.DTOs.dll
